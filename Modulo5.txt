@@ -1,0 +1,16 @@
+Flex-direction
+padrão flex-direction: row;       sentido da linha--> // line direction
+
+flex-direction: row-reverse;     <-- sentido da linha // line direction
+
+flex-direction: column;   muito utilizado em celular // Widely used in cell phones
+
+flex-direction: column-reverse;  coluna com sentido de baixo para cima
+
+EIXOS(axis):    Main-start, main-end,  (vertical)
+		cross-start, cross-end (horizontal)
+
+Flex-wrap: encapsulamento
+
+flex-wrap: nowrap;
+flex-wrap: wrap;
